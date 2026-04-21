@@ -1,29 +1,29 @@
-#  Toko Jahit Laravel
+Toko Jahit Laravel
 
-##  Deskripsi
+ Deskripsi
 Aplikasi Toko Jahit berbasis web yang dibuat menggunakan Laravel untuk mengelola data jahitan seperti nama pelanggan, jenis jahitan, dan harga.
 
-## ✨ Fitur
-- ➕ Tambah Data Jahitan
-- ✏️ Edit Data Jahitan
-- ❌ Hapus Data Jahitan
-- 📋 Menampilkan Data Jahitan dalam bentuk tabel
+ Fitur
+- Tambah Data Jahitan
+-  Edit Data Jahitan
+-  Hapus Data Jahitan
+-  Menampilkan Data Jahitan dalam bentuk tabel
 
-## 🖥️ Tampilan
+ Tampilan
 Halaman utama menampilkan data jahitan dengan kolom:
 - Nama
 - Jenis Jahitan
 - Harga
 - Aksi (Edit & Hapus)
 
-## 🛠️ Teknologi
+ Teknologi
 - Laravel
 - PHP
 - MySQL
 - Bootstrap
 - Html
 
-## ⚙️ Cara Menjalankan
+Cara Menjalankan
 
 1. Clone repository:
    ```bash
